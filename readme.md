@@ -1,9 +1,9 @@
 ## Polyomino Games
 
-A game built with Unity.
+A puzzle game built with Unity, to explore a concept.
 See [blog](http://www.polyomino.com).
 
-See [blob](http://www.polyomino.com/category/looptwo/) for some pondering on Loop the Game, and how to make games of this kind.
+See [blob](http://www.polyomino.com/category/looptwo/) for some thoughts on Loop the Game, and the difficulty in generating levels for games of this kind.
 
-See [Strange Loops](https://david-pfx.github.io/Polyomino/strange-loops) for the game that came out of it. Joining up loops on a hex grid. Very hard at the highest levels, but still a work in progress.
+See [Strange Loops](https://david-pfx.github.io/strange-loops/WebGL) for the game that came out of it. Joining up loops on a hex grid. Already very hard at the highest levels, but still a work in progress.
 
